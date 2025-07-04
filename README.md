@@ -1,4 +1,4 @@
-# CTF GitHub
+# GitHub Actions for CTF
 
 To create CTF challenges for github workflows, we need an environment to run GitHub workflow privately for a user.
 
